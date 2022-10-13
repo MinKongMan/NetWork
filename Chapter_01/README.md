@@ -2,7 +2,7 @@
 
 
 # Url 해독 방법
-  - 브라우저가 처음 하는 일은 웹 서버에 리퀘스트의 메시지를 작성하기 위해 URL을 해독하는 것<
+  - 브라우저가 처음 하는 일은 웹 서버에 리퀘스트의 메시지를 작성하기 위해 URL을 해독하는 것<br/>
   ex1) http://www.lab.cyber.co.kr/dir1/file1.html을 분해
       http:   //   www.lab.cyber.co.kr(웹 서버명)   dir1/file1.html(데이터 출처의 경로명)
       즉 www.lab.cyber.co.kr이라는 웹 서버에 /dir1/file1.html 이라는 경로의 파일, 즉 /dir1/ 디렉토리 아래에 있는 file1.html 파일에 액세스한다는 의미
